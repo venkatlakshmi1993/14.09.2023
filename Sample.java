@@ -18,6 +18,9 @@ public class Sample {
 
        System.out.println();
     }
+	
+	List<String> al1 = new LinkedList<String>();
+	
 
 	}
 
