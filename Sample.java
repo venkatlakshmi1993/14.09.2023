@@ -20,7 +20,7 @@ public class Sample {
     }
 	
 	List<String> al1 = new LinkedList<String>();
-	
+	al1.add("gowtham");
 
 	}
 
